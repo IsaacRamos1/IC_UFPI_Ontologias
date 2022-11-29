@@ -1,0 +1,15 @@
+body {
+    font-family: Consolas,monaco,monospace;
+}
+.navbar{
+    background-color: #8a3232;
+}
+
+p{
+    text-indent: 50px;
+    margin-top: 3vh;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
