@@ -6,8 +6,20 @@ body {
 }
 
 p{
-    text-indent: 50px;
+    text-align: justify;
+    margin: 3vh 3vh 0vh 3vh;
+}
+
+.h1, h2 {
+    font-size: 1.8rem;
+}
+
+.h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
     margin-top: 3vh;
+    margin-left: 3vh;
+    margin-bottom: .5vh;
+    font-weight: 800;
+    line-height: 1.2rem;
 }
 
 .navbar-brand{
